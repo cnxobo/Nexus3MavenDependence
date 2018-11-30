@@ -2,8 +2,9 @@
 // @name         Nexus 3 XML Dependency
 // @namespace    http://xobo.org/
 // @version      0.1
-// @description  try to take over the world!
-// @author       You
+// @description  add  XML dependency information to nexus 3
+// @author       cnxobo
+// @license MIT
 // @match        http://172.16.0.13:8081/
 // @grant        none
 // ==/UserScript==
